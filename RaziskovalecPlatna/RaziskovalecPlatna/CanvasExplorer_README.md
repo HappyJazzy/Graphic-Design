@@ -1,6 +1,6 @@
 ### About the Game
 
-This game was developed as the main project for a bachelor's thesis. In this project, I covered pretty much every aspect of its development: I drew and animated the character and the tile system environment, as well as all present objects. I also composed all the music myself. The entire creation process is described in detail in my Bachelor's thesis, available here https://repozitorij.uni-lj.si/IzpisGradiva.php?id=149857&lang=eng
+This game was developed as the main project for a bachelor's thesis. In this project, I covered pretty much every aspect of its development: I drew and animated the character and the tile system environment, as well as all present objects using Aseprite. I also composed all the music myself. The entire creation process is described in detail in my Bachelor's thesis, available here https://repozitorij.uni-lj.si/IzpisGradiva.php?id=149857&lang=eng
 where I also touch upon copyright and age restriction laws.
 
 ### Gameplay
