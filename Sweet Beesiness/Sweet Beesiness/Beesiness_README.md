@@ -1,7 +1,7 @@
 
 ### About the Game
 
-This game was developed as part of a bachelor level course. While models, textures, sound effects and music were sourced online, I animated the bee's wings using Blender, sculpted the terrain, and colored the 3D models.
+This game was developed as part of a bachelor level course. The project is usually made within groups, but this was a solo project. While models, textures, sound effects and music were sourced online, I animated the bee's wings using Blender, sculpted the terrain, and colored the 3D models.
 
 ### Gameplay
 
