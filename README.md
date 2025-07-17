@@ -1,6 +1,6 @@
 # Graphic Design 🎮
 
-This repository showcases my game development and art portfolio.
+This repository showcases my game development, UI/UX and art portfolio.
 
 ## About This Repository
 
