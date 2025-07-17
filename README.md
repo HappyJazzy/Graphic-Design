@@ -1,4 +1,4 @@
-# GameDev 🎮
+# Graphic Design 🎮
 
 This repository showcases my game development and art portfolio.
 
